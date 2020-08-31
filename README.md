@@ -5,4 +5,4 @@
 - 📫 How to reach me: <jorgeplazalazo@disroot.org>
 - ⚡ Fun fact: I love Judo 🥋
 
-[<img src="https://<spotify-now-playing-sandy.vercel.app/>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/swdzr4sooyx6urc5ka1tgis70)
+[<img src="https://spotify-now-playing-sandy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/swdzr4sooyx6urc5ka1tgis70)
