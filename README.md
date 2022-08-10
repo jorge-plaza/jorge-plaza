@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jorge</h1>
 
-- 🔭 I’m currently working on my [https://github.com/jorge-plaza/Retobici-Backend](Bike Sharing Project)
+- 🔭 I’m currently working on my [Bike Sharing Project](https://github.com/jorge-plaza/Retobici-Backend)
 - 🌱 I’m currently learning Java and Spring
 - 📫 How to reach me: <jorgeplazalazo@disroot.org>
 - ⚡ Fun fact: I love Judo 🥋
